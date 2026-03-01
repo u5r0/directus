@@ -9,6 +9,7 @@ This directory contains comprehensive documentation of the Directus project arch
 - [**Monorepo Structure**](./02-monorepo-structure.md) ✅ - Workspace organization and shared packages
 - [**Build & Deployment**](./03-build-deployment.md) ✅ - Build configuration and deployment setup
 - [**Package Interactions**](./20-package-interactions.md) ✅ - **How /api, /app, /packages, and /sdk interact**
+- [**Frontend-Backend-SDK Interactions**](./24-frontend-backend-sdk-interactions.md) ✅ - **Detailed communication patterns with code examples**
 
 ### Backend (API)
 - [**Backend Architecture**](./04-backend-architecture.md) ✅ - Express.js API structure and patterns
